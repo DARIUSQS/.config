@@ -1,3 +1,5 @@
-*
-!hypr/
+/*
+###
 !.gitignore
+###
+!**hypr/
